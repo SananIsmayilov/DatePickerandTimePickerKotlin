@@ -2,7 +2,7 @@
 
 ## DatePickerDialog and TimePickerDialog were used in this project.</br>
 
-###-Screenshots :</br>
+### -Screenshots :</br>
 
 -General screenshots : </br></br>
 ![scr1](https://github.com/SananIsmayilov/DatePickerandTimePickerKotlin/blob/master/Screenshots/Screenshot%20(51).png)</br>
